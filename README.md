@@ -36,11 +36,11 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-!(foto1.jpg)
+!(agenda-escolar/foto1.jpg)
 
-!(foto2.jpg)
+!(agenda-escolar/foto2.jpg)
 
-!(foto3.jpg)
+!(agenda-escolar/foto3.jpg)
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar la aplicación, por favor abre un issue o envía un pull request.
