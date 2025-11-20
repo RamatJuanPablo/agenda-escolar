@@ -36,11 +36,11 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-[!(agenda-escolar/blob/main/foto1.jpg)]
+!(agenda-escolar/blob/main/foto1.jpg)
 
-[!(agenda-escolar/blob/main/foto2.jpg)]
+!(agenda-escolar/blob/main/foto2.jpg)
 
-[!(agenda-escolar/blob/main/foto3.jpg)]
+!(agenda-escolar/blob/main/foto3.jpg)
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar la aplicación, por favor abre un issue o envía un pull request.
